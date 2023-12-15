@@ -1,0 +1,87 @@
+#sagar1
+    {
+    color:white;
+    background-color: rgb(36, 102, 235);
+    text-align: center;
+    height: 100px;
+
+    }
+    #sagar2
+    {
+    color: blue;
+    }
+    .text 
+    {
+    text-align: left;
+    }
+
+.sagar3
+{
+
+  width: 750px;
+  padding: 1px 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color:rgb(198, 197, 197) ;
+  color: white;
+
+}
+
+#sagar4
+{
+    color: blue;
+}
+.text
+{
+    text-align: left;
+}
+
+.sagar5 
+{
+
+  width: 100%;
+  padding: 1px 8px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color:rgb(250, 250, 250) ;
+  color: rgb(0, 0, 0);
+  border-style: solid;
+  border-width: 1px;
+
+}
+
+.sagarjoshi
+{
+	color: blue;
+	justify-content: center;
+	text-align: center;
+	font-size: x-large;
+	margin: 20px 10px 0px 10px;
+}
+
+form
+{
+	background-color: white(235, 227, 227, 0.7);
+	padding-top: 40px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+    border-radius:2px;
+	margin: auto;
+	margin-top: 10px;
+	padding-bottom: 60px; 
+	width: 100px;
+	height: 100px;
+}
+
+.sj
+{
+	color: white;
+	background-color: rgb(35, 139, 224);
+	width: 200px;
+	height: 30px;
+    border: none;
+    text-align: center;
+}
